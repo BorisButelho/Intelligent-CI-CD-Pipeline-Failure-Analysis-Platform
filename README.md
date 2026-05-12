@@ -164,4 +164,3 @@ This project demonstrates:
 - State management
 - File handling and processing
 
-This project is created for educational and portfolio purposes.
