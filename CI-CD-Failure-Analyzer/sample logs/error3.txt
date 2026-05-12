@@ -1,0 +1,21 @@
+[INFO] Running automated test suite...
+
+PASS src/components/Navbar.test.js
+PASS src/components/Footer.test.js
+
+FAIL src/components/Login.test.js
+
+● Login Component › should authenticate user
+
+Expected status code: 200
+Received status code: 401
+
+AssertionError: expected true but received false
+
+test failed
+
+Test Suites: 1 failed, 2 passed
+Tests:       1 failed, 14 passed
+Snapshots:   0 total
+
+Build pipeline terminated.

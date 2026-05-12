@@ -1,0 +1,17 @@
+[INFO] Starting build process...
+[INFO] Installing dependencies...
+
+npm ERR! code ERESOLVE
+npm ERR! ERESOLVE unable to resolve dependency tree
+
+npm ERR! While resolving: frontend-app@1.0.0
+npm ERR! Found: react@18.2.0
+npm ERR! node_modules/react
+
+npm ERR! Could not resolve dependency:
+npm ERR! peer react@"^17.0.0" from legacy-library@2.1.3
+
+npm ERR! Fix the upstream dependency conflict,
+npm ERR! or retry this command with --force
+
+Build failed with exit code 1

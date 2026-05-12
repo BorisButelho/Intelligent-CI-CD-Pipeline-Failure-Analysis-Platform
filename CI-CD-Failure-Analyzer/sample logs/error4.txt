@@ -1,0 +1,15 @@
+[INFO] Deploying application to production server...
+
+Connecting to remote host...
+
+scp: permission denied
+
+ERROR: Failed to copy deployment package
+
+User does not have sufficient privileges
+
+permission denied
+
+Deployment aborted.
+
+Exit status code: 126

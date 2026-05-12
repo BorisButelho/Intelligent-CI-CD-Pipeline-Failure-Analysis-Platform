@@ -1,0 +1,17 @@
+[INFO] Starting Kubernetes deployment...
+
+kubectl apply -f deployment.yaml
+
+deployment.apps/backend created
+
+Waiting for rollout to finish...
+
+error: deployment "backend" exceeded its progress deadline
+
+CrashLoopBackOff detected
+
+Container terminated unexpectedly
+
+Back-off restarting failed container
+
+Deployment failed after timeout.

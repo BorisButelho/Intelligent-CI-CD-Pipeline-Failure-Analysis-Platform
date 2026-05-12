@@ -1,0 +1,15 @@
+[INFO] Starting build pipeline...
+
+Loading modules...
+Initializing runtime...
+Compiling assets...
+
+Unexpected issue encountered during execution
+
+Runtime exited unexpectedly
+
+No stack trace available
+
+Process terminated.
+
+Unknown internal exception occurred.

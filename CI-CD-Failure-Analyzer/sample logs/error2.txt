@@ -1,0 +1,20 @@
+[INFO] Building Docker image...
+
+Step 1/8 : FROM node:18
+ ---> a1b2c3d4e5f6
+
+Step 2/8 : COPY . /app
+ ---> Using cache
+
+Step 3/8 : RUN npm install
+ ---> Running in container 89ab2f
+
+npm WARN deprecated package xyz
+
+ERROR: Service 'web' failed to build
+
+docker build failed
+
+FATAL: out of memory
+
+The command '/bin/sh -c npm install' returned a non-zero code: 137
